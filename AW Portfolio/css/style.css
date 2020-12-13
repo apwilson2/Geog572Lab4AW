@@ -1,0 +1,19 @@
+.jumbotron {
+  color: mediumblue;
+  text-align: center;
+    padding: 20px; margin-top: 0px; font-family: Tahoma, sans-serif; font-weight: bold; text-shadow: 3px 3px 3px rgb(240, 240, 240);}
+
+.portfolio {text-align: center;}
+
+.resume h5{color: black}
+.resume h6{color: black}
+.card-deck{padding: 20px;}
+
+h1{color: mediumblue; font-family: sans-serif;}
+h2{color: mediumblue; font-family: sans-serif;}
+h3{color: mediumblue; font-family: sans-serif;}
+h4{color: mediumblue; font-family: sans-serif;}
+h5{color: mediumblue; font-family: sans-serif;}
+h6{color: mediumblue; font-family: sans-serif;}
+p{color: black; font-family: sans-serif;}
+body{font-family: sans-serif}
